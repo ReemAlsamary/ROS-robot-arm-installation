@@ -1,6 +1,6 @@
 # ROS-robot-arm-installation
 Installing the Robot arm package on ROS(Robot operating system).
-**Task(1) steps:**
+##**Task(1) steps:**
 1. Start a new project by signing up at https://www.theconstructsim.com/,then the following page will show once you click on Create a Project, then fill in the boxes with the project name, the ROS version you wish to use (I'm using ROS Melodic), and a brief description before clicking Create.<img width="1270" alt="Screen Shot 1442-12-06 at 2 33 33 AM" src="https://user-images.githubusercontent.com/86277104/126019373-810a0a27-a3ce-490c-85c8-cdd2ead24187.png">
 2. Installing the Robot Arm package from the Smart Methods github by using the command (Sudo apt install git) to install Github on ROS.<img width="812" alt="Screen Shot 1442-12-06 at 2 37 01 AM" src="https://user-images.githubusercontent.com/86277104/126019720-6e20fa10-0f70-42ee-9c4f-02671b601d3f.png">
 3. Installing the dependencies (moveit,joint state puplisher,gazebo) on ROS by using the following commands, then compile the package after the installation is completed.<img width="992" alt="Screen Shot 1442-12-06 at 2 42 59 AM" src="https://user-images.githubusercontent.com/86277104/126020045-597ae532-93a3-4843-8593-6fdf5d2d394c.png"> <img width="874" alt="Screen Shot 1442-12-06 at 2 43 16 AM" src="https://user-images.githubusercontent.com/86277104/126020073-3c07607a-97bc-41d2-880e-684c682b2b61.png">
