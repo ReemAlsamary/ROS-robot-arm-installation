@@ -16,13 +16,13 @@ Install and run the Robot arm on ROS(Robot operating system).
 
 
 ---
-## 4. Controling the motor in simulation by using the ($ roslaunch robot_arm_pkg check_motors.launch), ($ roslaunch robot_arm_pkg check_motors_gazebo.launch) command to launch the Robotic Arm control on both RVis and Gazebo and adjust the arm using the controls.
+### 4. Controling the motor in simulation by using the ($ roslaunch robot_arm_pkg check_motors.launch), ($ roslaunch robot_arm_pkg check_motors_gazebo.launch) command to launch the Robotic Arm control on both RVis and Gazebo and adjust the arm using the controls.
 
 <img width="956" alt="Screen Shot 1442-12-06 at 2 49 17 AM" src="https://user-images.githubusercontent.com/86277104/126020238-0ce4918d-a23f-449e-bcae-98634e2b1f9c.png"> <img width="868" alt="Screen Shot 1442-12-06 at 2 48 49 AM" src="https://user-images.githubusercontent.com/86277104/126022159-27bea035-85b3-4747-a92b-1d1074f0ca53.png"> <img width="681" alt="Screen Shot 1442-12-07 at 1 03 08 AM" src="https://user-images.githubusercontent.com/86277104/126020500-894c83ac-08ce-4a10-a505-b12d2edfc1b5.png">
 
 
-
-## 5. MoveIt in RVis by using the ($ roslaunch moveit_pkg demo.launch) command to simulates the arm movement in different directions which will result as shown in the following windows:
+---
+### 5. MoveIt in RVis by using the ($ roslaunch moveit_pkg demo.launch) command to simulates the arm movement in different directions which will result as shown in the following windows:
 
 <img width="983" alt="Screen Shot 1442-12-07 at 1 24 02 AM" src="https://user-images.githubusercontent.com/86277104/126020877-bd1bcfd7-3735-44c3-b6c4-003c715a3e92.png"> <img width="975" alt="Screen Shot 1442-12-07 at 1 24 09 AM" src="https://user-images.githubusercontent.com/86277104/126020883-1380885b-cafd-4469-b353-a056577c9cf8.png"> 
  
